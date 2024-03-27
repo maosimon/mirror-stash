@@ -28,3 +28,5 @@ def query():
 
 if __name__ == '__main__':
     app.run(debug=True)
+
+print ("this line add to show the staging area")
