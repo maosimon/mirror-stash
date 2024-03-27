@@ -45,5 +45,4 @@ if __name__ == "__main__":
     main()
 
 print ("testing calculator")
-print("wating for push")
 print("try to make merging mistake")
