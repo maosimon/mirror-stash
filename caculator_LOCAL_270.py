@@ -46,5 +46,3 @@ if __name__ == "__main__":
 
 print ("testing calculator")
 print("try to make merging mistake")
-print("for noting")
-print("add one more line")
